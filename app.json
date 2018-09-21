@@ -4,7 +4,7 @@
     "description": "This Apps is dedicated for Edy & Intan's Wedding.",
     "slug": "https://exp.host/@ervandra/wedding-apps",
     "privacy": "public",
-    "githubUrl": ""
+    "githubUrl": "https://github.com/ervandra/wedding-apps",
     "sdkVersion": "28.0.0",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
